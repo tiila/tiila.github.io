@@ -4,24 +4,33 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a language technology student at the University of Helsinki. Currently, my main interest is text classification. As my minor subjects I study computer science and cognitive science. 
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/tiila-kaenniemi), [GitHub](https://github.com/tiila)
 
 ## Contact
 
 My email address is of the form first_name.last_name@helsinki.fi. 
 
-## Courses I've Taken
+## Some courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+Language Technology
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Machine Learning for Linguists with Python](https://courses.helsinki.fi/fi/KIK-LG210/125773141), Spring 2018
+[Programming for Linguists with Python](https://courses.helsinki.fi/fi/KIK-LG208/125773313), Spring 2018
 
-## Projects
+Computer Science
+
+[Introduction to Computer Science](https://courses.helsinki.fi/fi/TKT10001/124961057) Fall 2018
+[Introduction to programming with Java](https://courses.helsinki.fi/fi/aytkt10002/124726143) Fall 2016
+
+Cognitive Science and Psychology
+
+[Cognitive neuroscience and clinical neuropsychology](https://courses.helsinki.fi/fi/aypsyk-211/123882565) Fall 2018
+[Introduction to Cognitive Psychology](https://courses.helsinki.fi/fi/aypsyk-121/125262851) Spring 2018
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+I am very enthusiastic about freeride snowboarding and I am looking forward to my upcoming trips.
