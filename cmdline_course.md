@@ -4,30 +4,28 @@ layout: default
 
 Command-line course
 
-Introduction
+## Introduction
 
 This is an introductory course to command-line utilities. The course introduces the basics of Unix command-line tools with examples of how to use them and benefit from them especially with language technology related tasks. During the course we learned how to navigate the Unix system and how to install, configure and run programs. Processing and managing files from the command-line through text file processing tasks is learned in the course.
 Additionally, the course works as a starting point for creating ones own programs as it covers the mains points of version control with git and using Github as a platform for one's projects.
 
 
-(for the final week, you can talk about Jekyll and Gihub Pages).  You should briefly describe the main content of each week and also briefly reflect on what you learned during the week (maybe 1-3 sentences for reflection). 
-You need to include at least one list, image and table on the cmdline_course page. 
-
-Read about formatting code in markdown. Every section should include some formatted example code or commands like:
-
-
-
-Each section should have some formatted code or commands and an explanation.
-You should include at least one table, list and image on your cmdline_course.html page.
-Your markdown code should be neatly formatted.
-
+Week | Topic
+--- | --- |
+Week 1 | Intro to Command-Line Environments 
+Week 2 | Navigating a UNIX System
+Week 3 | Corpus Processing 
+Week 4 | Scripting and UNIX Configuration Files
+Week 5 | Installing and Running Programs
+Week 6 | Version Control
+Final project | Building Webpages using GitHub Pages 
 
 ## Week 1: Introduction to Command-Line Environments
 
 The first week was about getting started with Unix and command-line basics as well as working with files from the command line.
 The week covered installing Ubuntu on Windows and understanding the basics of the Unix operating system. During this week we learned how to create and edit files with the Nano text editor and move files between Ubuntu and Windows. Different file formats were also covered. 
 
-Commands:
+**Commands:**
 
 - **cp** copy
 - **mv** move or rename
@@ -77,20 +75,17 @@ The third week was all about corpus and text file processing, how to handle erro
 
 ## Week 4: Scripting and UNIX Configuration Files
 
-Bash and Python ??? using commands in scripts 
-
-- perl? 
-
+This week we learned more about bash and bash scripting. We created our own .bashrc files and different environment variables.
 
 **Commands:**
 
 - **source .bashrc** executes the contents of the .bashrc file for example to update the changes made in the file
-- **echo** 
+- **echo** outputs the strings it is being passed as arguments
 
 **Reflection:** *This was probably the hardest week for me to fully understand everything that was covered. Environment variables, PATH variables and configuration files are in theory easy to understand, but when having to edit them I seem unable to find my own mistakes. Also knowing what I can and what I should not edit in configuration files can still be a mystery. *
 
 
-##Week 5: Installing and Running Programs
+## Week 5: Installing and Running Programs
 
 During this week we took a deeper look on installations, environment variables, configuration files e.g. .bashrc and learn to look for hidden files with filenames starting with ".". 
 We learned that successfull installations often require preinstalled libraries or other programs to work and that package managers such as apt for Unix and pip for Python are a useful too for handling these dependencies. The week provided some useful knowledge of how to work with Python, C and C++ programs on Unix. 
@@ -104,7 +99,7 @@ We learned that successfull installations often require preinstalled libraries o
 
 ## Week 6: Version Control
 
-Introduction to version control with Git.
+This week was about the introduction to version control with Git and using GithHub as a project platform.
 
 **Commands:**
 
@@ -115,7 +110,7 @@ Introduction to version control with Git.
 - **git pull** pull the changes from remote repository to yourself
 - **git push** push the committed changes to remote repository
 
-**Reflection:**
+**Reflection:** *I had only used Git and GitHub a bit and never from the command-line this week made my working with Git and GitHub a lot more swift.*
 
 
 ## Final Assignment: Building Webpages using GitHub Pages
