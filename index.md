@@ -6,6 +6,8 @@ layout: default
 
 I am a language technology student at the University of Helsinki. Currently, my main interest is text classification. As my minor subjects I study computer science and cognitive science. 
 
+This spring I will be working on my Bachelor's Thesis in which I will review a model for hierachical document classification. Besides language technology, especially human cognition and computer science are a big interest of mine.
+ 
 
 ## Find me on
 
