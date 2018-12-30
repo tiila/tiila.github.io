@@ -22,72 +22,72 @@ You should include at least one table, list and image on your cmdline_course.htm
 Your markdown code should be neatly formatted.
 
 
-##Week 1: Introduction to Command-Line Environments
+## Week 1: Introduction to Command-Line Environments
 
 The first week was about getting started with Unix and command-line basics as well as working with files from the command line.
 The week covered installing Ubuntu on Windows and understanding the basics of the Unix operating system. During this week we learned how to create and edit files with the Nano text editor and move files between Ubuntu and Windows. Different file formats were also covered. 
 
 Commands:
 
-*cp* copy
-*mv* move or rename
-*rm* delete
-*mkdir* make directory
-*cd* change directory and 
-*ls* list files and directories in a directory
-*pwd* print working directory
-*wget* install files/programs from web using url
-*cat* concatenate files
-*less* view the whole text file
+- **cp** copy
+- **mv** move or rename
+- **rm** delete
+- **mkdir** make directory
+- **cd** change directory and 
+- **ls** list files and directories in a directory
+- **pwd** print working directory
+- **wget** install files/programs from web using url
+- **cat** concatenate files
+- **less** view the whole text file
 
-Reflection: I was new to Unix but found it relatively easy to get started even though having mainly used graphical interfaces it took some time to get comfortable using the command-line. The biggest challenge of the first week was insta$
+**Reflection:** *I was new to Unix but found it relatively easy to get started even though having mainly used graphical interfaces it took some time to get comfortable using the command-line. The biggest challenge of the first week was installing Ubuntu on Windows as I had to reinstall Windows10 which took a good while and I ended up finishing the first week with Taito and Cubbli.*
 
 
-##Week 2: Navigating a UNIX System
+## Week 2: Navigating a UNIX System
 
 The second week introduced us new commands and how to manage user permissions for files and work as the root user. In this week we also learned how to copy and transfer files using the secure file transfer protocol. 
 
-Commands:
+**Commands:**
 
-su switch user
-sudo su switch user to root
-chmod change permissions
-ssh connect to remote server
-sftp secure file transfer protocol
+- **su** switch user
+- **sudo** su switch user to root
+- **chmod** change permissions
+- **ssh** connect to remote server
+- **sftp** secure file transfer protocol
 
-Reflection: This week's tasks were very straightforward and simple to execute. I had used Taito before but I feel this course week still gave me some better understand$
+**Reflection:** *This week's tasks were very straightforward and simple to execute. I had used Taito before but I feel this course week still gave me some better understanding of how to work with remote servers.*
 
 
-##Week 3: Corpus Processing
+## Week 3: Corpus Processing
 
 The third week was all about corpus and text file processing, how to handle errors and how to use regular expressions.
 
-Commands:
+**Commands:**
 
-head show the beginning of a file
-tail show the end of a file
-sort sort alphabetically
-wc word count
-uniq show only uniq lines
-sed stream editor, stream changes in a file without opening
-grep search for a regular expression and print what is found
+- **head** show the beginning of a file
+- **tail** show the end of a file
+- **sort** sort alphabetically
+- **wc** word count
+- **uniq** show only uniq lines
+- **sed** stream editor, stream changes in a file without opening
+- **grep** search for a regular expression and print what is found
 
-Reflection: I found and still find managing huge text files from the command-line a bit difficult. Especially editing files with nano feel at least a bit clumsy. I was familiar with regular expressions already and enjoy creating them th$
+**Reflection:** *I found and still find managing huge text files from the command-line a bit difficult. Especially editing files with nano feel at least a bit clumsy. I was familiar with regular expressions already and enjoy creating them but it is difficult to accept not being sure whether the regular expression catches everything you want from a huge text file.*
 
 
-##Week 4: Scripting and UNIX Configuration Files
+## Week 4: Scripting and UNIX Configuration Files
 
 Bash and Python ??? using commands in scripts 
 
 - perl? 
 
 
-Commands:
+**Commands:**
 
-source .bashrc executes the contents of the .bashrc file for example to update the changes made in the file
-echo 
+- **source .bashrc** executes the contents of the .bashrc file for example to update the changes made in the file
+- **echo** 
 
-Reflection: This was probably the hardest week for me to fully understand everything that was covered. Environment variables, PATH variables and configuration files are in theory easy to understand, but when having to edit them I seem unable to find my own mistakes. Also knowing what I can and what I should not edit in configuration files can still be a mystery. 
+**Reflection:** *This was probably the hardest week for me to fully understand everything that was covered. Environment variables, PATH variables and configuration files are in theory easy to understand, but when having to edit them I seem unable to find my own mistakes. Also knowing what I can and what I should not edit in configuration files can still be a mystery. *
 
 
 ##Week 5: Installing and Running Programs
@@ -95,37 +95,37 @@ Reflection: This was probably the hardest week for me to fully understand everyt
 During this week we took a deeper look on installations, environment variables, configuration files e.g. .bashrc and learn to look for hidden files with filenames starting with ".". 
 We learned that successfull installations often require preinstalled libraries or other programs to work and that package managers such as apt for Unix and pip for Python are a useful too for handling these dependencies. The week provided some useful knowledge of how to work with Python, C and C++ programs on Unix. 
 
-Commands:
+**Commands:**
 
-make builds other programs, libraries or other projects like corpus collections
+- **make** builds other programs, libraries or other projects like corpus collections
 
-Reflection: This week was a very useful week for anybody needing to install different kinds of programs! I have installed many programs in the past and mostly succeeded after googling for help when the installations have been unsuccessfull at first. However, this week gave me some good tool for the future and made me actually understand some things I had already previously done.
+**Reflection:** *This week was a very useful week for anybody needing to install different kinds of programs! I have installed many programs in the past and mostly succeeded after googling for help when the installations have been unsuccessfull at first. However, this week gave me some good tool for the future and made me actually understand some things I had already previously done.*
 
 
-##Week 6: Version Control
+## Week 6: Version Control
 
 Introduction to version control with Git.
 
-Commands:
+**Commands:**
 
-git init initialize local repository
-git add –A add all the changes to the staging area
-git status get status of the added changes on the staging area to be committed
-git commit –m commit all changes to the repository with a message attached to the commit
-git pull origin master pull the changes from remote repository to yourself
-git push origin master push the committed changes to remote repository
+- **git init** initialize local repository
+- **git add –A** add all the changes to the staging area
+- **git status** get status of the added changes on the staging area to be committed
+- **git commit –m** commit all changes to the repository with a message attached to the commit
+- **git pull** pull the changes from remote repository to yourself
+- **git push** push the committed changes to remote repository
 
-Reflection:
+**Reflection:**
 
 
-##Final Assignment: Building Webpages using GitHub Pages
+## Final Assignment: Building Webpages using GitHub Pages
 
 The rest of the course was committed to learning how to create GitHub Pages with Jekyll. This was done in the form of the final assignment where the task was to create one's own GitHub homepage using Jekyll. In the assingment the aim was to learn how to put up and edit the page and utilize Markdown for the content.
 
 install + use
 
-Commands: 
+**Commands:** 
 
-Reflection: Setting up a page was not a very challenging task, but having to spend time on the content and for example creating an overleaf CV made the assignment very tedious. I would have also rather made some less identifiable content on my page but then found it easier and faster to use the facts of myself. I understand the final assignment works as a good revision of the course but I would have been happier, had I known at least to write the reflective parts after I had finished each week. 
+**Reflection:** *Setting up a page was not a very challenging task, but having to spend time on the content and for example creating an overleaf CV made the assignment very tedious. I would have also rather made some less identifiable content on my page but then found it easier and faster to use the facts of myself. I understand the final assignment works as a good revision of the course but I would have been happier, had I known at least to write the reflective parts after I had finished each week.*
 
 
