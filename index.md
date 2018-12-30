@@ -10,6 +10,7 @@ I am a language technology student at the University of Helsinki. Currently, my 
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/tiila-kaenniemi), [GitHub](https://github.com/tiila)
+
 [Here](https://www.overleaf.com/read/xnpjbhtvkvjq) is my Overleaf CV for the project. 
 
 ## Contact
