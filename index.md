@@ -6,6 +6,8 @@ layout: default
 
 I am a language technology student at the University of Helsinki. Currently, my main interest is text classification. As my minor subjects I study computer science and cognitive science. 
 
+Here is my Overleaf CV for the project: https://www.overleaf.com/read/xnpjbhtvkvjq
+
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/tiila-kaenniemi), [GitHub](https://github.com/tiila)
@@ -49,3 +51,4 @@ This is a group project where we introduced ourselves to search engine indexing 
 I am very enthusiastic about freeride snowboarding and I am looking forward to my upcoming trips.
 
 This year I serve as the Board Chair for our university's skiing association [Uniriders Ry](https://blogs.helsinki.fi/uniriders-hki/).
+
