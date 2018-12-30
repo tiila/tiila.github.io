@@ -82,7 +82,7 @@ This week we learned more about bash and bash scripting. We created our own .bas
 - **source .bashrc** executes the contents of the .bashrc file for example to update the changes made in the file
 - **echo** outputs the strings it is being passed as arguments
 
-**Reflection:** *This was probably the hardest week for me to fully understand everything that was covered. Environment variables, PATH variables and configuration files are in theory easy to understand, but when having to edit them I seem unable to find my own mistakes. Also knowing what I can and what I should not edit in configuration files can still be a mystery. *
+**Reflection:** *This was probably the hardest week for me to fully understand everything that was covered. Environment variables, PATH variables and configuration files are in theory easy to understand, but when having to edit them I seem unable to find my own mistakes. Also knowing what I can and what I should not edit in configuration files can still be a mystery.*
 
 
 ## Week 5: Installing and Running Programs
@@ -116,10 +116,6 @@ This week was about the introduction to version control with Git and using GithH
 ## Final Assignment: Building Webpages using GitHub Pages
 
 The rest of the course was committed to learning how to create GitHub Pages with Jekyll. This was done in the form of the final assignment where the task was to create one's own GitHub homepage using Jekyll. In the assingment the aim was to learn how to put up and edit the page and utilize Markdown for the content.
-
-install + use
-
-**Commands:** 
 
 **Reflection:** *Setting up a page was not a very challenging task, but having to spend time on the content and for example creating an overleaf CV made the assignment very tedious. I would have also rather made some less identifiable content on my page but then found it easier and faster to use the facts of myself. I understand the final assignment works as a good revision of the course but I would have been happier, had I known at least to write the reflective parts after I had finished each week.*
 
